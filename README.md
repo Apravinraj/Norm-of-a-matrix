@@ -61,7 +61,7 @@ print(Norm_of_matrix)
 
 
 
-```
+
 ## Output:
 ### 1-Norm of a Matrix
 ![Screenshot 2023-06-03 101129](https://github.com/Apravinraj/Norm-of-a-matrix/assets/118707879/2697571e-f8b4-4619-8d2d-f5f836d0c0fa)
